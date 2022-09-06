@@ -1,3 +1,6 @@
 [submodule "sample-submodule"]
 	path = sample-submodule
 	url = https://github.com/marko-pnap/sample-submodule.git
+[submodule "second-submodule"]
+	path = second-submodule
+	url = https://github.com/marko-pnap/second-submodule.git
